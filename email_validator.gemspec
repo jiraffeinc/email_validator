@@ -4,13 +4,13 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 require "email_validator/version"
 
 Gem::Specification.new do |spec|
-  spec.name          = "mailgun_email_validator"
-  spec.version       = MailgunEmailValidator::VERSION
+  spec.name          = "email_validator"
+  spec.version       = EmailValidator::VERSION
   spec.authors       = ["tabtt3"]
   spec.email         = ["tabttppp@gmail.com"]
 
-  spec.summary       = %q{mailgun rails email validator}
-  spec.description   = %q{mailgun rails email validator}
+  spec.summary       = %q{rails email validator}
+  spec.description   = %q{rails email validator}
   spec.homepage      = "http://jiraffe.co.jp"
   spec.license       = "MIT"
 

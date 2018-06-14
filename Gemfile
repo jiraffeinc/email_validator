@@ -2,5 +2,5 @@ source "https://rubygems.org"
 
 git_source(:github) {|repo_name| "https://github.com/#{repo_name}" }
 
-# Specify your gem's dependencies in mailgun_email_validator.gemspec
+# Specify your gem's dependencies in email_validator.gemspec
 gemspec
