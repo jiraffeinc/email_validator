@@ -1,0 +1,4 @@
+en:
+  errors:
+    messages:
+      invalid_email: "invalid email"

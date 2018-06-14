@@ -1,0 +1,4 @@
+ja:
+  errors:
+    messages:
+      invalid_email: "メールアドレスが不正です"
